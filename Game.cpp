@@ -52,7 +52,7 @@ void reverseString() {
 
 int main(){
     int choice;
-    cout << "Choose a game to run: \n1. Guessing Game \n2. Array Manipulation \n. String Reveral \n Enter Choice: ";
+    cout << "Choose a game to run: \n1. Guessing Game \n2. Array Manipulation 3\n. String Reveral \n Enter Choice: ";
     cin >> choice;
 
     switch (choice)
